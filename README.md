@@ -1,7 +1,7 @@
 # OpenGLProjects
 Video Links for my OpenGL Projects
 
-Here are links to videos of my OpenGL projects. If you would like to see the code, please email me as these were class projects; I cannot display the code publically
+Here are links to videos of my OpenGL projects. If you would like to see the code, please email me. I cannot display the code publicly as these were class projects.
 
 Manipulation of Points:
 
