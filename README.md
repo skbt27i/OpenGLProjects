@@ -11,6 +11,6 @@ Manipulation of Object in 3D Space:
 
 https://youtu.be/jiVQ5I2wsZk
 
-PN Triangles Smoothing Demonstration:
+PN Triangles Smoothing Demonstration (My Face on a PN Triangles Model):
 
 https://youtu.be/QoUDTvnlK9Y
