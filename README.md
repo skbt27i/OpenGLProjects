@@ -4,7 +4,7 @@ Video Links for my OpenGL Projects
 
 All of my projects were written in C++
 
-Here are links to videos of my OpenGL projects. If you would like to see the code, please email me. I cannot display the code publicly as these were class projects.
+Here are links to videos of my OpenGL projects. If you would like to see the code, please email me. 
 
 Manipulation of Points:
 
